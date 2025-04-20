@@ -1,5 +1,1 @@
-console.log('indexonetwotwo');
-console.log('from branchoneadad');
-let a = 10
-console.log('three');
-let da = 787;
+console.log('Hello from main');
